@@ -1,1 +1,1 @@
-This was built suing the Chirpy starter.
+This was built using the Chirpy starter.
